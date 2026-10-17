@@ -61,7 +61,7 @@ namespace APP_WORK.Properties {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на server = localhost; port = 5432; user id = postgres; password = postgres; database = 555555.
+        ///   Ищет локализованную строку, похожую на server = localhost; port = 5432; user id = postgres; password = postgres; database = DB_demo_exam_2027_main.
         /// </summary>
         internal static string conn {
             get {
